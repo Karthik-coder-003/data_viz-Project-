@@ -1,0 +1,100 @@
+[
+  {
+    "key": "gdp",
+    "label": "GDP",
+    "unit": "current US$",
+    "code": "NY.GDP.MKTP.CD",
+    "fullName": "GDP (current US$)"
+  },
+  {
+    "key": "gdpPerCapita",
+    "label": "GDP per capita",
+    "unit": "current US$",
+    "code": "NY.GDP.PCAP.CD",
+    "fullName": "GDP per capita (current US$)"
+  },
+  {
+    "key": "lifeExpectancy",
+    "label": "Life expectancy",
+    "unit": "years",
+    "code": "SP.DYN.LE00.IN",
+    "fullName": "Life expectancy at birth, total (years)"
+  },
+  {
+    "key": "fertilityRate",
+    "label": "Fertility rate",
+    "unit": "births per woman",
+    "code": "SP.DYN.TFRT.IN",
+    "fullName": "Fertility rate, total (births per woman)"
+  },
+  {
+    "key": "aged65plus",
+    "label": "Population aged 65+",
+    "unit": "% of population",
+    "code": "SP.POP.65UP.TO.ZS",
+    "fullName": "Population ages 65 and above (% of total population)"
+  },
+  {
+    "key": "urbanPop",
+    "label": "Urban population",
+    "unit": "% of population",
+    "code": "SP.URB.TOTL.IN.ZS",
+    "fullName": "Urban population (% of total population)"
+  },
+  {
+    "key": "popDensity",
+    "label": "Population density",
+    "unit": "people per km²",
+    "code": "EN.POP.DNST",
+    "fullName": "Population density (people per sq. km of land area)"
+  },
+  {
+    "key": "internetUsers",
+    "label": "Internet users",
+    "unit": "% of population",
+    "code": "IT.NET.USER.ZS",
+    "fullName": "Individuals using the Internet (% of population)"
+  },
+  {
+    "key": "co2PerCapita",
+    "label": "CO₂ emissions per capita",
+    "unit": "t CO₂e per person",
+    "code": "EN.GHG.CO2.PC.CE.AR5",
+    "fullName": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+  },
+  {
+    "key": "unemployment",
+    "label": "Unemployment",
+    "unit": "% of labour force",
+    "code": "SL.UEM.TOTL.ZS",
+    "fullName": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+  },
+  {
+    "key": "inflation",
+    "label": "Inflation",
+    "unit": "annual %",
+    "code": "FP.CPI.TOTL.ZG",
+    "fullName": "Inflation, consumer prices (annual %)"
+  },
+  {
+    "key": "healthSpending",
+    "label": "Health expenditure",
+    "unit": "% of GDP",
+    "code": "SH.XPD.CHEX.GD.ZS",
+    "fullName": "Current health expenditure (% of GDP)"
+  },
+  {
+    "key": "womenInParliament",
+    "label": "Women in parliament",
+    "unit": "% of seats",
+    "code": "SG.GEN.PARL.ZS",
+    "fullName": "Proportion of seats held by women in national parliaments (%)"
+  },
+  {
+    "key": "trade",
+    "label": "Trade",
+    "unit": "% of GDP",
+    "code": "NE.TRD.GNFS.ZS",
+    "fullName": "Trade (% of GDP)"
+  }
+]
